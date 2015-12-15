@@ -1,5 +1,7 @@
 # Hadoop Tools [![Hackage version](https://img.shields.io/hackage/v/hadoop-tools.svg?style=flat)](http://hackage.haskell.org/package/hadoop-tools) [![Build Status](http://img.shields.io/circleci/project/jystic/hadoop-tools.svg?style=flat)](https://circleci.com/gh/jystic/hadoop-tools)
 
+[![Join the chat at https://gitter.im/CommBank/hadoop-tools](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CommBank/hadoop-tools?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Tools for working with Hadoop written with performance in mind.
 
 *This has been tested with the HDFS protocol used by CDH 5.x*
